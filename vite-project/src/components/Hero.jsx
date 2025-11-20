@@ -7,7 +7,7 @@ import { fadeIn } from '../utills/animationVariants';
 
 const Hero = () => {
   return (
-    <section id='home' className='bg-herobg text-white flex items-center pt-15 py-60'>
+    <section id='home' className='bg-herobg text-white flex items-center pt-15 py-28'>
     <div className='container mx-auto flex flex-col md:flex-row items-center justify-between p-8 
     overflow-y-hidden gap-12'>
         {/* left side */}
