@@ -14,7 +14,6 @@ const packages = [
       'Basic UI/UX Layout',
       'Contact Form Integration',
       'Easy content management',
-      
     ],
   },
 
